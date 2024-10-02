@@ -6,11 +6,11 @@
   "headerURL": "https://i.electrics01.com/i/d81dabf74c88.png",
   "website": "https://electrics01.com",
   "tintColor": "#00bf00",
-  "featuredApps": ["com.ElectricS01.TPU-Mac"],
+  "featuredApps": ["ElectricS01.TPU-Mac"],
   "apps": [
     {
       "name": "TPU iOS",
-      "bundleIdentifier": "com.ElectricS01.TPU-Mac",
+      "bundleIdentifier": "ElectricS01.TPU-Mac",
       "developerName": "ElectricS01",
       "subtitle": "A native Mac App for Troplo's TPU made with SwiftUI",
       "localizedDescription": "A native Mac App for Troplo's TPU made with SwiftUI",
