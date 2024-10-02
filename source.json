@@ -1,0 +1,40 @@
+{
+  "name": "ElectricS01's Source",
+  "subtitle": "The official source for TPU iOS",
+  "description": "This source currently only contains TPU iOS, Created by Electrics01, find the source here https://github.com/ElectricS01/Altstore-Source",
+  "iconURL": "https://i.electrics01.com/i/03abe845b795.png",
+  "headerURL": "https://i.electrics01.com/i/d81dabf74c88.png",
+  "website": "https://electrics01.com",
+  "tintColor": "#00bf00",
+  "featuredApps": ["com.ElectricS01.TPU-Mac"],
+  "apps": [
+    {
+      "name": "TPU iOS",
+      "bundleIdentifier": "com.ElectricS01.TPU-Mac",
+      "developerName": "ElectricS01",
+      "subtitle": "A native Mac App for Troplo's TPU made with SwiftUI",
+      "localizedDescription": "A native Mac App for Troplo's TPU made with SwiftUI",
+      "iconURL": "https://i.electrics01.com/i/b7bdd125312b.png",
+      "tintColor": "#00bf00",
+      "category": "utilities",
+      "screenshots": [
+        "https://i.electrics01.com/i/614c42c9d208.png",
+        "https://i.electrics01.com/i/0ced125747d8.png",
+        "https://i.electrics01.com/i/f1e660407d41.png"
+      ],
+      "versions": [
+        {
+          "version": "0.3.5",
+          "buildVersion": "1",
+          "date": "2024-10-1",
+          "localizedDescription": "New iOS communications UI",
+          "downloadURL": "https://i.electrics01.com/i/31a29c67285b.ipa",
+          "size": "3572469",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}
