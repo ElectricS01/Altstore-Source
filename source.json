@@ -31,6 +31,15 @@
           "downloadURL": "https://i.electrics01.com/i/31a29c67285b.ipa",
           "size": 3572469,
           "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.3.12",
+          "buildVersion": "1",
+          "date": "2024-10-23",
+          "localizedDescription": "WebSocket for deleting messages in comms",
+          "downloadURL": "https://i.electrics01.com/i/62599ff05d49.ipa",
+          "size": 4161886,
+          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {}
