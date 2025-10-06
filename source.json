@@ -24,21 +24,12 @@
       ],
       "versions": [
         {
-          "version": "0.3.5",
+          "version": "0.3.16",
           "buildVersion": "1",
-          "date": "2024-10-1",
-          "localizedDescription": "New iOS communications UI",
-          "downloadURL": "https://i.electrics01.com/i/31a29c67285b.ipa",
-          "size": 3572469,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.3.12",
-          "buildVersion": "1",
-          "date": "2024-10-23",
-          "localizedDescription": "WebSocket for deleting messages in comms",
-          "downloadURL": "https://i.electrics01.com/i/62599ff05d49.ipa",
-          "size": 4161886,
+          "date": "2025-10-6",
+          "localizedDescription": "Accepting terms",
+          "downloadURL": "https://i.electrics01.com/i/2ffbd4c6bbf4.ipa",
+          "size": 1742970,
           "minOSVersion": "17.0"
         },
         {
@@ -51,12 +42,21 @@
           "minOSVersion": "17.0"
         },
         {
-          "version": "0.3.16",
+          "version": "0.3.12",
           "buildVersion": "1",
-          "date": "2025-10-6",
-          "localizedDescription": "Accepting terms",
-          "downloadURL": "https://i.electrics01.com/i/2ffbd4c6bbf4.ipa",
-          "size": 1742970,
+          "date": "2024-10-23",
+          "localizedDescription": "WebSocket for deleting messages in comms",
+          "downloadURL": "https://i.electrics01.com/i/62599ff05d49.ipa",
+          "size": 4161886,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.3.5",
+          "buildVersion": "1",
+          "date": "2024-10-1",
+          "localizedDescription": "New iOS communications UI",
+          "downloadURL": "https://i.electrics01.com/i/31a29c67285b.ipa",
+          "size": 3572469,
           "minOSVersion": "17.0"
         }
       ],
