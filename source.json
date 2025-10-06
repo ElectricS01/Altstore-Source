@@ -49,6 +49,15 @@
           "downloadURL": "https://i.electrics01.com/i/3c8ab9034007.ipa",
           "size": 5639887,
           "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.3.16",
+          "buildVersion": "1",
+          "date": "2025-10-6",
+          "localizedDescription": "Accepting terms",
+          "downloadURL": "https://i.electrics01.com/i/2ffbd4c6bbf4.ipa",
+          "size": 1742970,
+          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {}
