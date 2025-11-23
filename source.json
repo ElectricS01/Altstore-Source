@@ -24,6 +24,15 @@
       ],
       "versions": [
         {
+          "version": "0.3.19",
+          "buildVersion": "1",
+          "date": "2025-11-11",
+          "localizedDescription": "Accepting terms",
+          "downloadURL": "https://i.electrics01.com/i/ce5efc15ffde.ipa",
+          "size": 2083309,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.3.16",
           "buildVersion": "1",
           "date": "2025-10-6",
