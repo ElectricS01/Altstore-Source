@@ -24,10 +24,19 @@
       ],
       "versions": [
         {
+          "version": "0.3.27",
+          "buildVersion": "1",
+          "date": "2026-03-05",
+          "localizedDescription": "Render file embeds",
+          "downloadURL": "https://i.electrics01.com/i/13bcd1ee2094.ipa",
+          "size": 3889020,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.3.19",
           "buildVersion": "1",
           "date": "2025-11-11",
-          "localizedDescription": "Accepting terms",
+          "localizedDescription": "More Context Menus and Gestures",
           "downloadURL": "https://i.electrics01.com/i/ce5efc15ffde.ipa",
           "size": 2083309,
           "minOSVersion": "17.0"
